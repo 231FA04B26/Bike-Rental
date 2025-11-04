@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bike Rental Website
 
 A full-stack MERN application for bike rentals with user authentication, booking management, admin dashboard, and payment integration.
@@ -174,3 +175,7 @@ The application will be running at:
 ## License
 
 This project is licensed under the ISC License.
+=======
+# Bike-Rental
+MSD Project
+>>>>>>> 867b5b4dfbcb5732e757b6d2269a3dd2d94451e6
